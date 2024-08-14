@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Chayandutt009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Marketing Professional with 7+ Years of Experience
 
-<!---
-Chayandutt009/Chayandutt009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have extensive experience in digital marketing, specializing in social media management, organic growth, and paid campaigns. My career began with Orpins, where I honed my skills in digital marketing strategies.
+
+Selected Projects:
+
+Shax Tattoo Art Studio (USA): Managed complete social media marketing, focusing on organic growth strategies. Successfully increased the studio's social media presence, followers, and overall reach.
+Froosty Dog & Elite Cafe (USA): Spearheaded marketing efforts for these popular cafes, driving community engagement and expanding their reach. Led paid campaigns on Instagram, effectively boosting posts and increasing overall engagement.
